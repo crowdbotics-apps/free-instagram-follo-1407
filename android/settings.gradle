@@ -1,0 +1,3 @@
+rootProject.name = 'free_instagram_follo_1407'
+
+include ':app'
